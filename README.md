@@ -14,10 +14,10 @@ This project highlights key business KPIs, demand patterns (day/month), category
 
 ## Dashboard preview
 
-### Page 1 — KPI summary + Best/Worst sellers
+### Page 1 — Trends + Category/Size performance
 ![Dashboard page 1](images/d1.png)
 
-### Page 2 — Trends + Category/Size performance
+### Page 2 — KPI summary + Best/Worst sellers 
 ![Dashboard page 2](images/d2.png)
 
 ---
